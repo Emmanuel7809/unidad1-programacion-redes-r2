@@ -1,3 +1,5 @@
+### Alan Francisco Emmanuel Aguilar Fuentes
+### Programacion de Redes Unidad 1 Recuperacion 2
 def sumar_dias(a, b, c, n):
     from datetime import datetime, timedelta
     fecha_inicial = datetime(c, b, a)
