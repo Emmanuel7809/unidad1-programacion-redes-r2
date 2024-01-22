@@ -1,3 +1,5 @@
+### Alan Francisco Emmanuel Aguilar Fuentes
+### Programacion de Redes Unidad 1 Recuperacion 2
 from datetime import datetime
 def calcular_diferencia_entre_fechas(a, b, c, p, q, r):
     fecha_inicial = datetime(c, b, a)
