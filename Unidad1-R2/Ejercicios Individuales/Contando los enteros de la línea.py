@@ -1,3 +1,5 @@
+### Alan Francisco Emmanuel Aguilar Fuentes
+### Programacion de Redes Unidad 1 Recuperacion 2
 import sys
 for line in sys.stdin:
     line = line.strip()
