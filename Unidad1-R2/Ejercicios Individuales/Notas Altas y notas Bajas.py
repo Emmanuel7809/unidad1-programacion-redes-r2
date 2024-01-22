@@ -1,3 +1,5 @@
+### Alan Francisco Emmanuel Aguilar Fuentes
+### Programacion de Redes Unidad 1 Recuperacion 2
 def calcular_promedio(notas):
     return round(sum(notas) / len(notas), 2)
 n = int(input())
