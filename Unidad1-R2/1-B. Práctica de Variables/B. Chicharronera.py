@@ -1,3 +1,5 @@
+### Alan Francisco Emmanuel Aguilar Fuentes
+### Programacion de Redes Unidad 1 Recuperacion 2
 import math
 a, b, c = map(int, input().split())
 discriminante = b**2 - 4*a*c
